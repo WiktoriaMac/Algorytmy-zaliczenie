@@ -1,5 +1,2 @@
 # Algorytmy na zaliczenie 
-events
-stack
-bst
-sorting
+algorytmy, które wzięłam pod uwagę na zaliczenie to: bst, events, sorting oraz stack.
