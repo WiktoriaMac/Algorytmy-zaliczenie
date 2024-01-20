@@ -1,1 +1,5 @@
-# Algorytmy-zaliczenie
+# Algorytmy na zaliczenie 
+events
+stack
+bst
+sorting
